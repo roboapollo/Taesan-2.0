@@ -12,19 +12,19 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "SH AN BOT",
-	"prefix": "/",
+	"nickNameBot": "𝑻𝒂𝒆𝒔𝒂𝒏'𝒔 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕🕷️",
+	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100045644423035"
+		"61595878526111"
 	],
-	"owner": ["100045644423035"],
+	"owner": ["61595878526111"],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": ["100045644423035"],
+		"whiteListIds": ["61595878526111"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
